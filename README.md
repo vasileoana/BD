@@ -1,1 +1,3 @@
 # BD
+
+Proiectul prezinta baza de date a firmelor de asigurari. Acesta contine patru tabele: FIRME_ASIGURARI- unde sunt inregistrate informatii generale despre firmele din acest domeniu , ASIGURATORI-in care sunt memorati angajatii din cadrul fiecarei firme,acestia avand diverse functii (asistent, broker ,coordonator brokeri) iar rolul lor este de a emite polite de asigurare si/sau de a promova asigurarile potentialilor clienti, ASIGURATI-contine date despre clientii firmelor de asigurari si ASIGURARI unde sunt stocate politele  emise in cadrul fiecarei firmei, si sunt de 3 tipuri: de autoturism, de sanatate, de bunuri.
